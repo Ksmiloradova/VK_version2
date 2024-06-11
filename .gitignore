@@ -32,6 +32,11 @@ MANIFEST
 *.manifest
 *.spec
 
+*.docx
+*.gz
+*.pdf
+*.pptx
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
